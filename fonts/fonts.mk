@@ -106,10 +106,12 @@ PRODUCT_PACKAGES += \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
+    FontFiraSansOverlay \
     FontGoogleSansOverlay \
     FontGoogleSansFlexOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
+    FontHKGroteskOverlay \
     FontInterOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
@@ -126,6 +128,8 @@ PRODUCT_PACKAGES += \
     FontOswaldOverlay \
     FontPlayOverlay \
     FontQuandoOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
@@ -134,6 +138,8 @@ PRODUCT_PACKAGES += \
     FontSamsungOneOverlay \
     FontSansSerifOverlay \
     FontSourceCodeProOverlay \
+    FontSourceSansOverlay \
+    FontSourceSerifOverlay \
     FontSonySketchOverlay \
     FontSpaceGroteskOverlay \
     FontStoropiaOverlay \

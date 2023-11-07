@@ -116,7 +116,7 @@ PRODUCT_PACKAGES += \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontNunitoOverlay \
-    FontOneplusSansOverlay \
+    FontOnePlusSansOverlay \
     FontOneplusSlateOverlay \
     FontOppoSansOverlay \
     FontOswaldOverlay \

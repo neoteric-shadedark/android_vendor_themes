@@ -137,4 +137,5 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay \
-    FontUrbanistOverlay
+    FontUrbanistOverlay \
+    FontVolteOverlay

@@ -114,6 +114,7 @@ PRODUCT_PACKAGES += \
     FontLatoOverlay \
     FontLinotteOverlay \
     FontManropeOverlay \
+    FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \

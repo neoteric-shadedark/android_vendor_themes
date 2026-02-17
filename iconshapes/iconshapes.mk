@@ -7,6 +7,7 @@ PRODUCT_PACKAGES += \
     IconShapeHexagonOverlay \
     IconShapeLeafOverlay \
     IconShapePebbleOverlay \
+    IconShapeRiceBallsOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \

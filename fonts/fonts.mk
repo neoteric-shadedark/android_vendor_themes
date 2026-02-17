@@ -117,6 +117,7 @@ PRODUCT_PACKAGES += \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
+    FontNotoSansOverlay \
     FontNunitoOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateOverlay \
